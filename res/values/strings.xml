@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">FacebookPhotoStudio</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="APP_ID">134767750018991</string>
+    
+    <string-array name="boi">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+    
+
+</resources>
